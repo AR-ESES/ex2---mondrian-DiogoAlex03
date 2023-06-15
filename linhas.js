@@ -22,4 +22,5 @@ function draw() {
 	strokeWeight(random(20,23));
 	line(0,200,width,200);
 	strokeWeight(random(10,15));
-	line(300,0,300,height); }
+	line(300,0,300,height); 
+}
